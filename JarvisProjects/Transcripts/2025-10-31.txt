@@ -1,0 +1,316 @@
+[2025-10-31 00:02:32] USER: open a song for me in YouTube
+
+[2025-10-31 00:02:54] USER: open a song for me in YouTube
+[2025-10-31 00:02:54] JARVIS: Okay! To give you the best music, I need a little more information. 
+
+**Could you tell me:**
+
+*   **What kind of music are you in the mood for?** (e.g., relaxing, upbeat, classical, pop, jazz, electronic, etc.)
+
+[2025-10-31 00:03:16] USER: Bojhena Se Bojhena in YouTube
+
+[2025-10-31 00:03:35] USER: Bojhena Se Bojhena in YouTube
+[2025-10-31 00:03:35] JARVIS: Okay! To give you the best music, I need a little more information. 
+
+**Could you tell me:**
+
+*   **What kind of music are you in the mood for?** (e.g., relaxing, upbeat, classical, pop, jazz, electronic, etc.)
+
+[2025-10-31 00:04:02] USER: search safer on YouTube and play it
+
+[2025-10-31 00:10:13] USER: search despacito on YouTube and play it
+
+[2025-10-31 00:10:53] USER: skip that
+
+[2025-10-31 00:11:03] USER: skip that
+[2025-10-31 00:11:03] JARVIS: Okay. Just letting you know I’m here if you need anything.
+
+[2025-10-31 00:11:15] USER: open the previous Windows again
+
+[2025-10-31 00:11:25] USER: open the previous Windows again
+[2025-10-31 00:11:25] JARVIS: Okay, I will open the previous Windows.
+
+[2025-10-31 00:11:45] USER: search despacito on YouTube and play it
+
+[2025-10-31 00:12:35] USER: keep the volume at 60
+
+[2025-10-31 00:12:42] USER: keep the volume at 60
+[2025-10-31 00:12:42] JARVIS: Okay! Keep the volume at 60.
+
+[2025-10-31 00:13:16] USER: stop running
+
+[2025-10-31 00:17:02] USER: open Spotify and play despa
+
+[2025-10-31 00:17:12] USER: open Spotify and play despa
+[2025-10-31 00:17:12] JARVIS: Okay, I understand. I will open Spotify and play "Despa." 
+
+Starting now. 😊
+
+[2025-10-31 00:17:41] USER: open Spotify and play despacito
+
+[2025-10-31 00:17:51] USER: open Spotify and play despacito
+[2025-10-31 00:17:51] JARVIS: Okay, I understand. I will open Spotify and play “Despa.” 
+
+Starting now. 😊
+
+[2025-10-31 00:19:05] USER: Jab stop
+
+[2025-10-31 00:24:42] USER: open Spotify and play 16 tons
+
+[2025-10-31 00:24:57] USER: stop
+
+[2025-10-31 00:26:59] USER: open Spotify and play 16 tons
+
+[2025-10-31 00:27:01] USER: open spotify and play 16 tons
+[2025-10-31 00:27:01] ACTION: Opened Spotify for and  16 tons
+
+[2025-10-31 00:27:59] USER: stop
+
+[2025-10-31 00:33:39] USER: open Spotify and play 16 tons
+
+[2025-10-31 00:33:56] USER: open spotify and play 16 tons
+[2025-10-31 00:33:56] ACTION: Played and  16 tons on Spotify Web
+
+[2025-10-31 00:36:00] USER: Hindi movie
+
+[2025-10-31 00:36:21] USER: Hindi movie
+[2025-10-31 00:36:21] JARVIS: Okay! I understand you’re interested in Hindi movies. I can help you find some! Do you have a genre or specific movie in mind? 😊
+
+[2025-10-31 00:37:22] USER: open Spotify and search
+
+[2025-10-31 00:37:41] USER: open spotify and search
+[2025-10-31 00:37:41] ACTION: Played and search on Spotify Web
+
+[2025-10-31 00:39:46] USER: open Spotify and play 16 tons
+
+[2025-10-31 00:40:07] USER: open spotify and play 16 tons
+[2025-10-31 00:40:07] ACTION: Played and  16 tons on Spotify Web
+
+[2025-10-31 00:40:27] USER: stop running
+
+[2025-10-31 00:46:52] USER: play 16 tons
+
+[2025-10-31 00:47:06] USER: play 16 tons
+[2025-10-31 00:47:06] JARVIS: Okay, playing “and 16 tons”.  Is there anything else I can help you with?
+
+[2025-10-31 00:47:20] USER: open Spotify and play 16 tons
+
+[2025-10-31 00:47:48] USER: Jarvis
+
+[2025-10-31 00:47:55] USER: Jarvis
+[2025-10-31 00:47:55] JARVIS: Greetings. Ready for anything you need.
+
+[2025-10-31 00:48:03] USER: brightness
+
+[2025-10-31 00:48:20] USER: brightness
+[2025-10-31 00:48:20] JARVIS: Okay! To give you the best music, I need a little more information. 
+
+**Could you tell me:** **what kind of brightness are you looking for?** (e.g., warm, cool, subtle, energetic, etc.)
+
+[2025-10-31 00:48:46] USER: reduce the brightness to 30
+
+[2025-10-31 00:49:03] USER: reduce the brightness to 30
+[2025-10-31 00:49:03] JARVIS: Okay! To give you the best music, I need a little more information. 
+
+**Could you tell me:** **what kind of brightness are you looking for?** (e.g., warm, cool, subtle, energetic, etc.)
+
+[2025-10-31 00:49:55] USER: lower sound
+
+[2025-10-31 00:50:02] USER: lower sound
+[2025-10-31 00:50:02] JARVIS: Okay! Lower the sound.
+
+[2025-10-31 00:50:14] USER: set the volume level at 50
+
+[2025-10-31 00:50:22] USER: set the volume level at 50
+[2025-10-31 00:50:22] JARVIS: Okay! Set the volume level at 50.
+
+[2025-10-31 00:51:24] USER: stop
+
+[2025-10-31 01:04:28] USER: define play 16 tons
+
+[2025-10-31 01:04:44] USER: define play 16 tons
+[2025-10-31 01:04:44] JARVIS: Okay, playing “and 16 tons”. Is there anything else I can help you with? 
+
+(Essentially, I'm acknowledging the request and confirming I'm ready for more questions or tasks.)
+
+[2025-10-31 01:05:04] USER: open Spotify and play 16 tons
+
+[2025-10-31 01:05:35] USER: now play 16 tons in spotify
+
+[2025-10-31 01:06:58] USER: open Spotify and play 16 tons
+
+[2025-10-31 01:07:14] USER: set the volume at
+
+[2025-10-31 01:07:26] USER: set the volume at
+[2025-10-31 01:07:26] JARVIS: Okay! Set the volume at 50.
+
+[2025-10-31 01:07:39] USER: increase volume
+
+[2025-10-31 01:07:47] USER: increase volume
+[2025-10-31 01:07:47] JARVIS: Okay! Increase the volume by 10%.
+
+[2025-10-31 01:08:19] USER: open high anime
+
+[2025-10-31 01:08:32] USER: open high anime
+[2025-10-31 01:08:32] JARVIS: Okay! I understand you’re interested in opening high anime. I can certainly help you with that! Do you have a specific anime title or genre you’re looking for? 😊
+
+[2025-10-31 01:08:58] USER: in Google
+
+[2025-10-31 11:58:58] USER: Jarvis open Spotify and play 16
+
+[2025-10-31 12:04:22] USER: open Spotify and play my list playlist
+
+[2025-10-31 12:05:50] USER: open Spotify and play 16 tons
+
+[2025-10-31 12:07:03] USER: open Spotify and play 16 tons
+
+[2025-10-31 12:16:20] USER: Hasina
+
+[2025-10-31 12:16:38] USER: Hasina
+[2025-10-31 12:16:38] JARVIS: Okay! I understand you’re interested in opening high anime.
+
+[2025-10-31 12:16:55] USER: open YouTube and play 16 tons
+
+[2025-10-31 12:17:06] USER: open YouTube and play 16 tons
+[2025-10-31 12:17:06] JARVIS: Okay, I’m opening YouTube. I’m playing “and 16 tons”.  Is there anything I can help you with?
+
+[2025-10-31 12:23:48] USER: Jarvis open Spotify and play 16 tons
+
+[2025-10-31 12:24:01] USER: ok stop
+
+[2025-10-31 12:31:54] USER: open Spotify and play 16 tons
+
+[2025-10-31 12:32:22] USER: open Spotify and play 16 tons
+
+[2025-10-31 12:33:09] USER: stop
+
+[2025-10-31 12:36:20] USER: Jarvis open Spotify and play 16 tons
+
+[2025-10-31 12:36:46] USER: yes open Spotify and play 16 tons
+
+[2025-10-31 12:39:14] USER: Duniya Mein Krishna natak video
+
+[2025-10-31 12:39:21] USER: YouTube video
+
+[2025-10-31 12:43:00] USER: Nahin bhajan
+
+[2025-10-31 12:53:28] USER: Jarvis open Spotify and
+
+[2025-10-31 12:57:56] USER: open Spotify and play 16 tons
+
+[2025-10-31 13:01:24] USER: Jarvis open Spotify and play 16 tons
+
+[2025-10-31 13:02:44] USER: stop Jarvis
+
+[2025-10-31 13:04:37] USER: play 16 tons
+
+[2025-10-31 13:04:49] USER: play 16 tons
+[2025-10-31 13:04:49] JARVIS: Okay, playing “and 16 tons”.  Is there anything else I can help you with?
+
+[2025-10-31 13:05:04] USER: play 16 tons open Spotify and play 16 tons
+
+[2025-10-31 13:05:32] USER: open Spotify and play 16 tons
+
+[2025-10-31 13:05:58] USER: Sumit
+
+[2025-10-31 13:06:09] USER: Sumit
+[2025-10-31 13:06:09] JARVIS: Okay! I understand you’re interested in Hindi movies. I can help you find some! Do you have a genre or specific movie in mind? 😊
+
+[2025-10-31 13:07:37] USER: stop running jar
+
+[2025-10-31 13:09:38] USER: open Spotify and play 16 tons
+
+[2025-10-31 13:10:41] USER: play 16 tons
+
+[2025-10-31 13:10:50] USER: play 16 tons
+[2025-10-31 13:10:50] JARVIS: Okay, playing “and 16 tons”. Is there anything else I can help you with?
+
+[2025-10-31 13:11:07] USER: open Spotify and play 16 tons
+
+[2025-10-31 13:12:00] USER: open Spotify and play 16 tons
+
+[2025-10-31 13:13:20] USER: Jarvis open YouTube and
+
+[2025-10-31 13:13:26] USER: Jarvis open YouTube and
+[2025-10-31 13:13:26] JARVIS: Okay. I’m open YouTube. What would you like to watch?
+
+[2025-10-31 13:13:39] USER: open YouTube and play 16 tons in it
+
+[2025-10-31 13:13:51] USER: open YouTube and play 16 tons in it
+[2025-10-31 13:13:51] JARVIS: Okay, I’m opening YouTube. I’m playing “and 16 tons”. Is there anything I can help you with?
+
+[2025-10-31 13:14:04] USER: open YouTube
+
+[2025-10-31 13:14:22] USER: open YouTube
+[2025-10-31 13:14:22] JARVIS: Okay! To give you the best music, I need a little more information. 
+
+**Could you tell me:** What kind of music are you in the mood for? (e.g., relaxing, upbeat, classical, pop, jazz, electronic, etc.)
+
+[2025-10-31 13:15:21] USER: Jab stop
+
+[2025-10-31 13:21:36] USER: open Spotify and play 16 tons
+
+[2025-10-31 13:22:59] USER: open Spotify and play 16 terms
+
+[2025-10-31 13:50:26] USER: open Spotify and play 16 tons
+
+[2025-10-31 13:51:13] USER: open Spotify and play 16 terms
+
+[2025-10-31 13:53:14] USER: open Spotify and play 16 tons
+
+[2025-10-31 13:53:38] USER: increase the volume
+
+[2025-10-31 13:53:49] USER: increase the volume
+[2025-10-31 13:53:49] JARVIS: Okay! Increase the volume by 10%.
+
+[2025-10-31 13:54:13] USER: increase the volume to maximum
+
+[2025-10-31 13:54:20] USER: increase the volume to maximum
+[2025-10-31 13:54:20] JARVIS: Okay! Increase the volume by 10%.'
+
+[2025-10-31 13:55:06] USER: just play my like playlist
+
+[2025-10-31 13:55:13] USER: just play my like playlist
+[2025-10-31 13:55:13] JARVIS: Okay, playing your like playlist now. Let me know if you’d like me to do anything else. 😊
+
+[2025-10-31 13:55:34] USER: stop the song
+
+[2025-10-31 17:14:59] USER: open Spotify and play music
+
+[2025-10-31 17:15:14] USER: open Spotify and play
+
+[2025-10-31 17:15:27] USER: open Spotify open Spotify and play 16 tons
+
+[2025-10-31 17:16:02] USER: Bangla cartoon
+
+[2025-10-31 17:16:19] USER: Bangla cartoon
+[2025-10-31 17:16:19] JARVIS: Okay! I understand you’re interested in Bangla cartoons. 😊
+
+[2025-10-31 17:17:25] USER: open Spotify and play my
+
+[2025-10-31 17:17:50] USER: open Spotify and play like songs
+
+[2025-10-31 17:18:27] USER: change the song
+
+[2025-10-31 17:18:33] USER: change the song
+[2025-10-31 17:18:33] JARVIS: Okay, I understand. Please tell me which song you’d like me to open.
+
+[2025-10-31 17:18:44] USER: open Spotify and change the song
+
+[2025-10-31 17:22:57] USER: open the Spotify and play the music
+
+[2025-10-31 17:25:23] USER: Jarvis increase the volume
+
+[2025-10-31 17:25:33] USER: Jarvis increase the volume
+[2025-10-31 17:25:33] JARVIS: Okay! Increase the volume by 10%.
+
+[2025-10-31 17:25:53] USER: Jarvis set the volume at
+
+[2025-10-31 17:26:00] USER: Jarvis set the volume at
+[2025-10-31 17:26:00] JARVIS: Okay!  I’m setting the volume to 50%.
+
+[2025-10-31 17:26:15] USER: set the volume at 80%
+
+[2025-10-31 17:26:23] USER: set the volume at 80%
+[2025-10-31 17:26:23] JARVIS: Okay! Set the volume level at 80%.
+
